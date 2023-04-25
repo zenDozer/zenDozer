@@ -11,7 +11,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Student of QA course by Vadim Ksendzov <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a student of QA course by Vadim Ksendzov <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 <!--
 **zenDozer/zenDozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
