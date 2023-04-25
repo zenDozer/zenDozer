@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhxMXJhamthcHd2dmtwcWoydzlyamsxa3BibGx0NTB2Zno5dHZjbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y34jqOCXhgEsqRLULa/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhxMXJhamthcHd2dmtwcWoydzlyamsxa3BibGx0NTB2Zno5dHZjbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y34jqOCXhgEsqRLULa/giphy.gif" width="200"/></p>
 <p align="center">
 <a href="https://https://www.linkedin.com/in/oleksandrmalko/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
